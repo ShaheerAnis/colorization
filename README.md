@@ -1,5 +1,5 @@
-# Car Registration Assesment Task
-# Flask app with Marshmallow Schemas
+# Anime Colorization Assesment Task
+# Flask app with GAN model and SQLite
 
 ### Use-Case
 You have been given a real world challenge to generate reports on registration of cars. Let’s
